@@ -1,0 +1,26 @@
+.p1{
+    font-size: 30px;
+}
+.ul2{
+    background-color: #ffff00;
+}
+.p2{
+    border: 5px solid rgb(144, 6, 144);
+    color: rgb(225, 29, 29);
+}
+.p3{
+    display: inline-block;
+    background-color: rgb(42, 153, 218);
+}
+.p5{
+    background-color: rgb(48, 218, 42);
+}
+.p6{
+    color: red;
+}
+.p7{
+    background-color: rgb(48, 218, 42);
+}
+.a{
+background-color: #ffff00;
+}
